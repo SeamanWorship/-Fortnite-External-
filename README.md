@@ -23,14 +23,15 @@ The repository includes the following features:
     HWID Change: Change your hardware ID to avoid bans
     Soft Aim: A less detectable form of aimbot that still improves accuracy
     
-Использование
+Usage
 
-После того, как вы установили чит, выполните следующие действия, чтобы эффективно использовать его:
+Once you have installed the cheat, follow these steps to use it effectively:
 
-    Запуск Fortnite
-    Откройте внешний чит Fortnite Execcutable
-    Используйте чит-меню для включения или отключения функций по мере необходимости
-    Наслаждайтесь своим улучшенным геймплеем!!
+    Launch Fortnite.
+    Open the Fortnite External Cheat executable.
+    Use the cheat menu to enable or disable features as needed.
+    Enjoy your enhanced gameplay!
+
 Topics
 
 This repository covers a wide range of topics related to Fortnite cheats. Here are some key areas of focus:
